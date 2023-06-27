@@ -6,4 +6,5 @@ Booking flight tickets can be a daunting task for travelers, with constantly flu
 
 Objective:
 
-The objective of this project is to accurately predict future flight fares by analyzing relevant features such as locations (source and destination), dates of journey, airlines, flight duration, and other influencing factors. The prediction results can be beneficial for both travelers, who can use reliable fare estimates, allowing them to plan their trips with confidence and make informed decisions about their travel, and for airlines, who can use it to forecast competitor's rates and adjust their pricing strategies to maximize revenue while remaining competitive.
+* The objective of this project is to accurately predict future flight fares by analyzing relevant features such as locations (source and destination), dates of journey, airlines, flight duration, and other influencing factors. 
+* The prediction results can be beneficial for both travelers, who can use reliable fare estimates, allowing them to plan their trips with confidence and make informed decisions about their travel, and for airlines, who can use it to forecast competitor's rates and adjust their pricing strategies to maximize revenue while remaining competitive.
