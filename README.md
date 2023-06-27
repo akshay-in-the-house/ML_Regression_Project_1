@@ -2,7 +2,8 @@
 
 Description:
 
-Booking flight tickets can be a daunting task for travelers, with constantly fluctuating fares influenced by various factors such as destination, arrival or departure time, airline, duration of flight, etc. Existing online travel platforms often lack transparency, making it difficult for individuals to understand the pricing dynamics and secure the best deal. Therefore, there is a need to create a reliable flight fare prediction system that can assist travelers in estimating ticket prices and ultimately help them save time and money.
+* Booking flight tickets can be a daunting task for travelers, with constantly fluctuating fares influenced by various factors such as destination, arrival or departure time, airline, duration of flight, etc. 
+* Existing online travel platforms often lack transparency, making it difficult for individuals to understand the pricing dynamics and secure the best deal. Therefore, there is a need to create a reliable flight fare prediction system that can assist travelers in estimating ticket prices and ultimately help them save time and money.
 
 Objective:
 
